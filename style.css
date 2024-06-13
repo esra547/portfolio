@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&family=Indie+Flower&display=swap');
+h1{ background-color: rgb(230, 132, 160);
+   font-family: "Gwendolyn", cursive;
+    font-weight:bold;
+    border-radius: 30%;
+    text-align: center;
+    border-style: dotted;}
+body{background-color: rgb(222, 214, 202);}
+#hm{color: #279349;text-decoration: none;}
+#wr{color: #f2f605;text-decoration: none;}
+#ct{color: #4b80c2;text-decoration: none;}
+#rs{color: #ffaaaa;text-decoration: none;}
+#ab{color: #1f2576;text-decoration: none;} 
+.w{color: rgb(139, 30, 52);}
+ol li{background-color: #eae5c9;}
+h4{font-family: "Indie Flower", cursive;}
